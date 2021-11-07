@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>product</title>
+    <link rel="stylesheet" href="product.css" />
+  </head>
+  <body>
+    <div class="container">
+      <c:forEach items="$(product)" var="prod">
+
+          <div class="main">       
+          <div class="left-column">
+            
+              <c:out value="{prod.prodImgSrc}" />
+              <img src="d.jfif" alt="Girl in a jacket" width=400px height=200px>
+            
+          </div>
+          <div class="right-column">
+            
+              <c:out value="{prod.prodName}" />
+              <p>name is here</p>
+            
+            
+              <c:out value="{prod.prodDesc}" />
+              <p>desc is here</p>
+            
+              <c:out value="{prod.prodPrice}" />
+              <p>price is here</p>
+            
+              <a href="cart.html" class="cart-btn">Add to cart</a>
+            </div> 
+          </div>
+      </c:forEach>
+    </div>
+  </body>
+</html>
