@@ -1,0 +1,19 @@
+﻿insert into products values(1,"*A13 Bionic processor <br>*Display size of 6.1 Inch <br>*4GB RAM <br>*64GB storage","img/110","Apple iPhone 11 White",46,999);
+
+insert into products values(2,"*A13 Bionic processor <br>*Display size of 5.8 Inch <br>*4GB RAM <br>*64GB storage","img/111","Apple iPhone 11 Pro Space Grey",79899.00);
+
+insert into products values(3,"*A13 Bionic processor <br>*Display size of 6.5 Inch <br>*4GB RAM <br>*64GB storage","img/112","Apple iPhone 11 Pro Max Gold",117100.00);
+
+insert into products values(4,"*A14 Bionic processor <br>*Display size of 5.5 Inch <br>*4GB RAM <br>*128GB storage","img/120","Apple iPhone 12 mini Purple",64900.00);
+
+insert into products values(5,"*A14 Bionic processor <br>*Display size of 6.0 Inch <br>*4GB RAM <br>*64GB storage","img/121","Apple iPhone 12 White",77900.00)
+
+insert into products values(6,"*A14 Bionic processor <br>*Display size of 6.1 Inch <br>*4GB RAM <br>*128GB storage","img/122","Apple iPhone 12 Pro Pacific Blue",95900.00);
+
+insert into products values(7,"*A15 Bionic processor <br>*Display size of 6.2 Inch <br>*4GB RAM <br>*256B storage","img/130","Apple iPhone 13 Midnight",89900.00);
+
+insert into products values(8,"*A15 Bionic processor <br>*Display size of 6.1 Inch <br>*6GB RAM <br>*1TB storage","img/131","Apple iPhone 13 Pro Sierra Blue",169900.00);
+
+insert into products values(9,"*A15 Bionic processor <br>*Display size of 6.7 Inch <br>*6GB RAM <br>*128GB storage","img/132","Apple iPhone 13 Pro Max Sierra Blue",129900.00);
+
+insert into products values(10,"*A15 Bionic processor <br>*Display size of 5.1 Inch <br>*4GB RAM <br>*128GB storage","img/133","Apple iPhone 13 Mini Pink",69900.00);
